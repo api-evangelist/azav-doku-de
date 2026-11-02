@@ -1,4 +1,4 @@
-# azav-doku-de
+# AZAV-Doku
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-azav-doku-de is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://azav-doku.de/
+AZAV-Doku provides free web-based tools for AVGS documentation for AZAV-certified providers and coaches in Germany. It offers digital signatures for session records, deadline calculators, official BA forms (participation report, absence notifications), billing, and data export. The platform runs on Google Cloud in Frankfurt, stores data securely, and complies with German regulations. All features are available without subscription.
+
+**Areas:** AVGS · Documentation · DigitalSignature · Free · German · Healthcare
+
+## AZAV-Doku on APIs.io
+
+Everything profiled for AZAV-Doku is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/azav-doku-de/](https://apis.io/providers/azav-doku-de/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AZAV Doku MCP](https://apis.io/apis/azav-doku-de/azav-doku-mcp/) — MCP endpoint providing tool list for AZAV Doku.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Azav Doku De Mcp](https://apis.io/schemas/azav-doku-de/azav-doku-de-mcp/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Azav Doku De Authentication](https://apis.io/security/azav-doku-de/azav-doku-de-authentication/)
+- [Azav Doku De Domain Security](https://apis.io/security/azav-doku-de/azav-doku-de-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Azav Doku De Scopes](https://apis.io/scopes/azav-doku-de/azav-doku-de-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Azav Doku De Plans Pricing](https://apis.io/plans/azav-doku-de/azav-doku-de-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Azav Doku De Rate Limits](https://apis.io/rate-limits/azav-doku-de/azav-doku-de-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://azav-doku.de/)
+- [Documentation](https://azav-doku.de/llms.txt)
+- [API reference](https://azav-doku.de/mcp-server)
+- [Pricing](https://azav-doku.de/preise)
+- [Support](https://azav-doku.de/impressum)
+- [Terms of service](https://azav-doku.de/agb)
+- [Privacy policy](https://azav-doku.de/datenschutz)
+
+## API Evangelist rating
+
+**Kin Score 22.7** — emerging · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 50.5 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.2** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/azav-doku-de/](https://apis.io/providers/azav-doku-de/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AZAV-Doku: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/azav-doku-de/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
